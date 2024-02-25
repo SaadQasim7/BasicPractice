@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo img{
+    width: 109.21px;
+    height: 35px;
+}
+.right ul{
+    display: flex; 
+ }
+ .right ul li{
+    list-style: none;
+    margin: 10px;
+    text-align: center;
+
+ }
